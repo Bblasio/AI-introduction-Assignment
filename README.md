@@ -6,7 +6,9 @@
 ## 📖 Description 
 A simple, responsive mini e-learning platform built with vanilla HTML, CSS, and JavaScript.  
 Users can browse courses, enroll for free (after logging in), view lesson lists, access sample content,  
-and track progress. 
+and track progress.  
+ **Live Demo:** [View Here](https://bblasio.github.io/AI-introduction-Assignment/)
+
 
 ---
 
@@ -81,9 +83,7 @@ learnhub/
 ## Contributing 
 
 1. Fork the repo.   
-2. Create a feature branch:   
-   ```bash
-   git checkout -b feature/amazing-feature 
+2. Create a feature branch 
 
    
 ## License 
